@@ -1,0 +1,42 @@
+body {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: aliceblue;
+  font-family: "Poppins", sans-serif;
+}
+.sec {
+  margin-top: 10px;
+  width: 500px;
+  background-color: rgb(0, 0, 0);
+  border-radius: 10px;
+  border: solid 3px white;
+  box-shadow: 0px 0px 10px black;
+}
+
+img {
+  border-radius: 10px;
+  margin: 40px 20px 0px;
+  border: solid 3px white;
+  box-shadow: 0px 0px 10px rgb(255, 214, 103);
+}
+.especie{
+    font-size: 18px;
+ margin-top: 0px;
+}
+.name {
+  font-size: 30px;
+  color: rgb(255, 214, 103);
+  margin-bottom: 0px;
+}
+.epi {
+  font-size: 25px;
+  color: rgb(255, 214, 103);
+
+}
+
+.epiName {
+    margin: auto 20px;
+  font-size: 20px;
+  margin-bottom: 40px;
+}
